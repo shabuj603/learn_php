@@ -1,4 +1,5 @@
 <?php
+include 'file_read.php';
 echo date('d')."<br>";
 echo date('y')."<br>";
 echo date('m')."<br>";
